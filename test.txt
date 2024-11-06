@@ -1,5 +1,2 @@
 hello
-here
-is
-some
 text
